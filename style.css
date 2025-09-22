@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sancreek&display=swap');
+body{
+    text-align: center;
+}
+h2{
+    font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#gato{
+    font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.tefe{
+    background-color: rgb(198, 160, 234);
+    border: 8px;
+    width:550px ;
+    height: 250px;
+    border-radius: 16px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 15px;
+    margin-top: 25px;
+    font-family: "Jomhuria", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.tefe2{
+    background-color: rgb(174, 10, 180);
+    border: 8px;
+    width:550px ;
+    height: 250px;
+    border-radius: 16px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 15px;
+    margin-top: 25px;
+    font-family: "Jomhuria", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.tefe3{
+    background-color: rgb(132, 9, 109);
+    border: 8px;
+    width:550px ;
+    height: 250px;
+    border-radius: 16px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 15px;
+    margin-top:25px ;
+    font-family: "Jomhuria", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.paragrafo{
+    font-size: 28px;
+
+}
